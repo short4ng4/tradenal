@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@hookform/resolvers": "^5.2.1",
+    "@sendgrid/mail": "^8.1.5",
+    "@supabase/ssr": "^0.6.1",
+    "@supabase/supabase-js": "^2.55.0",
+    "date-fns": "^4.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "lucide-react": "^0.539.0",
+    "react-hook-form": "^7.62.0",
+    "recharts": "^3.1.2",
+    "zod": "^4.0.17"
+  }
+}
